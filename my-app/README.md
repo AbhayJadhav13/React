@@ -1,3 +1,18 @@
+# my-app
+
+This repository contains a React project named `my-app`.
+
+- Basic structure: `public/`, `src/`, `package.json`.
+- To run locally:
+
+```powershell
+Set-Location 'C:\Users\CDAC\Desktop\React_Abhay\my-app'
+npm install
+npm start
+```
+
+If you need any changes (README content, license, CI), tell me and I will update it.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
