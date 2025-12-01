@@ -1,0 +1,13 @@
+<script>
+  function hello(a1) {
+    let x1 = 10;
+    return () => {
+      return () => {
+        return () => {
+            console.log(x1+a1);
+        };
+      };
+    };
+  }
+  hello(100)()()();
+</script>
